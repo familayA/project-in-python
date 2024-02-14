@@ -1,0 +1,32 @@
+ERROR:root:<Your Name, 2024-02-13 14:38:15.474273, <attribute 'hour' of 'datetime.datetime' objects>> Unsupported file type: c:\users\user1\pythonproject\pythonproject1\project\usersname
+ERROR:root:<Chani , 2024-02-13 14:43:34.643955 ,2024-02-13 14:43:34.643956> Unsupported file type: c:\users\user1\pythonproject\pythonproject1\project\usersname
+ERROR:root:<Chani , 2024-02-13 14:53:55.433103> Unsupported file type: c:\users\user1\pythonproject\pythonproject1\project\usersname
+ERROR:root:<Chani , 2024-02-13 14:57:27.063461> Unsupported file type: c:\users\user1\pythonproject\pythonproject1\project\usersname
+ERROR:root:<Chani , 2024-02-13 14:57:27.065072> Error reading file 'C:\Users\user1\pythonProject\pythonProject1\project\YafeNof.csv': FileOperation.__init__() missing 1 required positional argument: 'path'
+ERROR:root:<Chani , 2024-02-13 14:58:15.512127> Unsupported file type: c:\users\user1\pythonproject\pythonproject1\project\usersname
+ERROR:root:<Chani , 2024-02-13 15:05:18.566114> Error reading file 'C:\Users\user1\pythonProject\pythonProject1\project\YafeNof.csv': FileOperation.__init__() missing 1 required positional argument: 'path'
+ERROR:root:<Chani , 2024-02-13 15:20:37.336394> error
+ERROR:root:<Chani , 2024-02-13 15:26:41.274476> error
+ERROR:root:<Chani , 2024-02-13 15:30:04.305103> error
+ERROR:root:<Chani , 2024-02-13 16:04:17.610147> error
+ERROR:root:<Chani , 2024-02-14 15:51:23.251145> error
+ERROR:root:<Chani , 2024-02-14 15:51:54.533431> error
+ERROR:root:<Chani , 2024-02-14 15:54:45.128299> error
+ERROR:root:<Chani , 2024-02-14 16:06:00.616942> error
+ERROR:root:<Chani , 2024-02-14 16:07:35.668346> error
+ERROR:root:<Chani , 2024-02-14 16:12:36.045313> error
+ERROR:root:<Chani , 2024-02-14 16:15:42.315770> error
+ERROR:root:<Chani , 2024-02-14 16:19:10.514240> error
+ERROR:root:<Chani , 2024-02-14 16:30:54.134803> error
+ERROR:root:<Chani , 2024-02-14 16:37:09.421348> error
+ERROR:root:<Chani , 2024-02-14 20:29:33.589004> error
+ERROR:root:<Chani , 2024-02-14 22:13:25.973243> list indices must be integers or slices, not str
+ERROR:root:<Chani , 2024-02-14 22:15:12.275518> list indices must be integers or slices, not str
+ERROR:root:<Chani , 2024-02-14 22:15:44.612867> list indices must be integers or slices, not str
+ERROR:root:<Chani , 2024-02-14 22:16:12.468438> list indices must be integers or slices, not str
+ERROR:root:<Chani , 2024-02-14 22:16:59.232084> 'list' object has no attribute 'isnumeric'
+ERROR:root:<Chani , 2024-02-14 22:18:10.608592> 'list' object has no attribute 'isnumeric'
+ERROR:root:<Chani , 2024-02-14 22:18:42.580778> list indices must be integers or slices, not list
+ERROR:root:<Chani , 2024-02-14 22:19:04.167826> list indices must be integers or slices, not list
+ERROR:root:<Chani , 2024-02-14 22:25:15.224632> "None of [Index(['Price', 'Total', 'Quantity'], dtype='object')] are in the [columns]"
+ERROR:root:<Chani , 2024-02-14 22:25:39.937660> only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
